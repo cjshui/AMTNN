@@ -12,7 +12,7 @@ A pytorch implementation of [A Principled Approach for Learning Task Similarity 
 ## Models
 
 - 'MTL.py': MTL model for digit classification problem (with H divergence and Wasserstein distance options)
-- 'alpha_opt.py': Model for solving the convextion optimization problem (Eq (2) in the paper)
+- 'alpha_opt.py': Model for solving the convex optimization problem (Eq (2) in the paper)
 
 ## How to cite
 
